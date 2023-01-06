@@ -1,2 +1,9 @@
-# algorithms-and-data-structures
-Implementation of general algorithms and data structures
+# Алгоритмы и Структуры данных
+
+Реализация стандартных в CS алгоритмов и структур данных.
+
+## Список алгоритмов
+
+## Список структур данных
+
+## Использованный список литературы
